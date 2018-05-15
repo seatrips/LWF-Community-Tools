@@ -21,9 +21,7 @@ Users can submit their dpos tool links by logging an issue, specifying the follo
 Each month, the newest tools will be included in a monthly Github bounty programme for issues or pull requests on the main LWF repository.  Bounties will be awarded based on impact of the pull/issue logged/bug identified, new tools, upgrades to existing tools, api wrappers and documentation.
 
 More details about the LWF Github bounty program will be released in the next few weeks.
-
-### The LWF Team
-- [Actors](#actors)
+```
     - [Algorithms and Data structures](#algorithms-and-data-structures)
     - [Applications](#applications)
     - [Artificial Intelligence](#artificial-intelligence)
@@ -112,3 +110,4 @@ More details about the LWF Github bounty program will be released in the next fe
     - [Screencasts](#screencasts)
     - [Styleguides](#styleguides)
     - [Websites](#websites)
+```
