@@ -2,7 +2,7 @@
 
 
 ## A central repository, with links to all LWF community developed tools.
-
+```
 Community developed tools are very important for LWF and we want to support talented developers from all coding backgrounds. 
 
 The time and effort each community developer invests into creating something awesome for LWF is invaluable.
@@ -110,4 +110,3 @@ More details about the LWF Github bounty program will be released in the next fe
     - [Screencasts](#screencasts)
     - [Styleguides](#styleguides)
     - [Websites](#websites)
-```
