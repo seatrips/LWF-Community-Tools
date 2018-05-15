@@ -22,6 +22,8 @@ Each month, the newest tools will be included in a monthly Github bounty program
 
 More details about the LWF Github bounty program will be released in the next few weeks.
 
+   
+   
     - [Algorithms and Data structures](#algorithms-and-data-structures)
     - [Applications](#applications)
     - [Artificial Intelligence](#artificial-intelligence)
@@ -100,7 +102,7 @@ More details about the LWF Github bounty program will be released in the next fe
     - [Video](#video)
     - [XML](#xml)
     - [YAML](#yaml)
-- [Resources](#resources)
+    
     - [Books](#books)
     - [Community](#community)
     - [Editors](#editors)
