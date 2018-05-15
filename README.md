@@ -2,7 +2,7 @@
 
 
 ## A central repository, with links to all LWF community developed tools.
-```
+
 Community developed tools are very important for LWF and we want to support talented developers from all coding backgrounds. 
 
 The time and effort each community developer invests into creating something awesome for LWF is invaluable.
@@ -21,7 +21,7 @@ Users can submit their dpos tool links by logging an issue, specifying the follo
 Each month, the newest tools will be included in a monthly Github bounty programme for issues or pull requests on the main LWF repository.  Bounties will be awarded based on impact of the pull/issue logged/bug identified, new tools, upgrades to existing tools, api wrappers and documentation.
 
 More details about the LWF Github bounty program will be released in the next few weeks.
-```
+
     - [Algorithms and Data structures](#algorithms-and-data-structures)
     - [Applications](#applications)
     - [Artificial Intelligence](#artificial-intelligence)
