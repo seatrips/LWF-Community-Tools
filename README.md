@@ -1,5 +1,3 @@
-# LWF Community Tools
-
 
 ## A central repository, with links to all LWF community developed tools.
 
