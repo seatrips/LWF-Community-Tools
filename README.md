@@ -34,7 +34,7 @@ More details about the LWF Github bounty program will be released in the next fe
 - [automated snapshot by samual paulson](https://github.com/samuelpaulsun/lwf-snapshot)
 
 ### Other Tools:
-- [ark-snapshot](https://github.com/Gr33nDrag0n69/Ark-Snapshot)
+- [ark-snapshot by Gr33nDragon](https://github.com/Gr33nDrag0n69/Ark-Snapshot)
 
 
 ### Official Repo's:
