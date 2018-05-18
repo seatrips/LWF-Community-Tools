@@ -34,4 +34,4 @@ More details about the LWF Github bounty program will be released in the next fe
 - [samual paulson, forging fail-over and snapshot creation lwf-checker](https://github.com/samuelpaulsun/lwf-checker)
 - [samual paulson, automated snapshot](https://github.com/samuelpaulsun/lwf-snapshot)
 
-### Other Tools
+### Other Tools:
