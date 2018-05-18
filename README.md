@@ -23,20 +23,20 @@ Each month, the newest tools will be included in a monthly Github bounty program
 More details about the LWF Github bounty program will be released in the next few weeks.
 
 ### Alerts:
-- [vekexasia, dpos telegram bot](https://github.com/vekexasia/dpos-telegram-bot)
+- [dpos telegram bot by vekexasia](https://github.com/vekexasia/dpos-telegram-bot)
 
 ### Pool Software:
-- [galperins4, true block weight](https://github.com/galperins4)
+- [true block weight by galperins4](https://github.com/galperins4)
 
 ### Backup For Delegate-node:
-- [4miners, dpos forging fail-over](https://github.com/4miners/always-forge)
-- [samual paulson, forging fail-over and snapshot creation lwf-checker](https://github.com/samuelpaulsun/lwf-checker)
-- [samual paulson, automated snapshot](https://github.com/samuelpaulsun/lwf-snapshot)
+- [dpos forging fail-over by 4miners](https://github.com/4miners/always-forge)
+- [forging fail-over and snapshot creation lwf-checker by samual paulson](https://github.com/samuelpaulsun/lwf-checker)
+- [automated snapshot by samual paulson](https://github.com/samuelpaulsun/lwf-snapshot)
 
 ### Other Tools:
 - [ark-snapshot](https://github.com/Gr33nDrag0n69/Ark-Snapshot)
 
 
 ### Official Repo's:
-- (https://github.com/lwfcoin/lwf-node/)[node]
-- (https://github.com/lwfcoin/lwf-explorer/)[explorer]
+- [node](https://github.com/lwfcoin/lwf-node/)
+- [explorer](https://github.com/lwfcoin/lwf-explorer/)[explorer]
