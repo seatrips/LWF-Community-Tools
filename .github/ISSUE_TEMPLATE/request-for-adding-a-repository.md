@@ -1,6 +1,6 @@
 ---
 name: Request for adding a Repository
-about: Adding a Repo
+about: Request LWF to add a Repo
 
 ---
 
