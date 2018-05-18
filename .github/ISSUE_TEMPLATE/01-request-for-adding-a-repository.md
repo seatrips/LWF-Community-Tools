@@ -6,5 +6,5 @@ about: Request LWF to add a Repo
 
 Repo URL: https://github.com/developer/cool-tool
 Title of the tool: cool-tool
-Repo owner: developer
+Repo owner: https://github.com/developer
 Slack ID: @cool-smart-developer
