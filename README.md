@@ -13,6 +13,8 @@ One of the benefits of this setup is that LWF doesn’t host a fork of the repos
 
 Users can submit their dpos tool links by logging an [issue](https://github.com/seatrips/LWF-Community-Tools/issues/new/choose)
 
+## When will the Repo's be added
+
 Each month, the newest tools will be included in a monthly Github bounty programme for issues or pull requests on the main LWF repository.  Bounties will be awarded based on impact of the pull/issue logged/bug identified, new tools, upgrades to existing tools, api wrappers and documentation.
 
 More details about the LWF Github bounty program will be released in the next few weeks.
