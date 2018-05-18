@@ -23,3 +23,6 @@ More details about the LWF Github bounty program will be released in the next fe
 
 - [vekexasia, dpos telegram bot](https://github.com/vekexasia/dpos-telegram-bot)
 - [galperins4, true block weight](https://github.com/galperins4)
+- [4miners, dpos forging fail-over](https://github.com/4miners/always-forge)
+- [samual paulson, forging fail-over and snapshot creation lwf-checker](https://github.com/samuelpaulsun/lwf-checker)
+- [samual paulson, automated snapshot](https://github.com/samuelpaulsun/lwf-snapshot)
