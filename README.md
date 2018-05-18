@@ -17,7 +17,7 @@ Users can submit their dpos tool links by logging an [issue](https://github.com/
 
 Each month, the newest tools will be included in a monthly Github bounty programme for issues or pull requests on the main LWF repository.  Bounties will be awarded based on impact of the pull/issue logged/bug identified, new tools, upgrades to existing tools, api wrappers and documentation.
 
-More details about the LWF Github bounty program will be released in the next few weeks.
+## Repo's
 
 ### Alerts:
 - [dpos telegram bot by vekexasia](https://github.com/vekexasia/dpos-telegram-bot)
