@@ -21,5 +21,5 @@ Each month, the newest tools will be included in a monthly Github bounty program
 More details about the LWF Github bounty program will be released in the next few weeks.
 
 
-- [github.com/vekexasia/dpos-telegram-bot]
-- [github.com/galperins4/tbw]
+- [vekexasia, dpos telegram bot](https://github.com/vekexasia/dpos-telegram-bot)
+- [galperins4, true block weight](https://github.com/galperins4)
