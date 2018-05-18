@@ -39,4 +39,4 @@ More details about the LWF Github bounty program will be released in the next fe
 
 ### Official Repo's:
 - [node](https://github.com/lwfcoin/lwf-node/)
-- [explorer](https://github.com/lwfcoin/lwf-explorer/)[explorer]
+- [explorer](https://github.com/lwfcoin/lwf-explorer/)
